@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuSystem", "MenuSystem\MenuSystem.csproj", "{0669AA97-C958-47BF-8DAD-CA0C13D4E1C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorBrain", "CalculatorBrain\CalculatorBrain.csproj", "{D8DCC726-A49A-463C-8B7F-58E6E2AD566C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorApp", "CalculatorApp\CalculatorApp.csproj", "{7A493BE6-BAE8-4884-8A04-822E3D0D241B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0669AA97-C958-47BF-8DAD-CA0C13D4E1C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0669AA97-C958-47BF-8DAD-CA0C13D4E1C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0669AA97-C958-47BF-8DAD-CA0C13D4E1C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0669AA97-C958-47BF-8DAD-CA0C13D4E1C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8DCC726-A49A-463C-8B7F-58E6E2AD566C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8DCC726-A49A-463C-8B7F-58E6E2AD566C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8DCC726-A49A-463C-8B7F-58E6E2AD566C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8DCC726-A49A-463C-8B7F-58E6E2AD566C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A493BE6-BAE8-4884-8A04-822E3D0D241B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A493BE6-BAE8-4884-8A04-822E3D0D241B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A493BE6-BAE8-4884-8A04-822E3D0D241B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A493BE6-BAE8-4884-8A04-822E3D0D241B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
